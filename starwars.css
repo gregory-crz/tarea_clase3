@@ -1,0 +1,67 @@
+.malos {
+    background-color: red;
+}
+
+#vader {
+    font-size: larger;
+}
+
+.rebeldes {
+    background-color: blue;
+    text-align: center;
+}
+
+#bueno {
+    font-style: italic;
+}
+
+.soldados {
+
+    border: 10px;
+    border-style: dashed;
+    background-color: blueviolet;
+    letter-spacing: 30px;
+}
+
+.apoyo {
+    text-align: center;
+    background-color: aquamarine;
+}
+
+.tie {
+    font-size: 20px;
+}
+
+.tanque {
+    font-size: 20px;
+}
+
+.halcon {
+    font-size: 20px;
+}
+
+.x {
+    font-size: 20;
+    background-color: aqua;
+}
+
+.centrar {
+    text-align: center;
+}
+
+body {
+    text-align: center;
+    background-image: url(https://cdn.pixabay.com/photo/2016/01/27/15/25/space-1164579_1280.png);
+}
+li{
+    background-color: aqua;
+}
+h1{
+    background-color: gold;
+}
+h2{
+    background-color: red;
+}
+h3{
+    background-color: gold;
+}
